@@ -1,6 +1,6 @@
 {
     "global_status": "active",
     "allowed_users": ["*"],
-    "banned_fingerprints": [],
+    "banned_fingerprints": ["261943519852636"],
     "banned_ips": []
 }
