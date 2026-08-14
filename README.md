@@ -1,10 +1,4 @@
 <div align="center">
-  
-  <img width="241" height="298" alt="1 2" src="https://github.com/user-attachments/assets/ab3d084e-6af5-45be-b874-2d292ab87591" />
-
-  
-
-
   <h1><span style="color: #00d8ff;">J.A.R.V.I.S.</span> System Architecture</h1>
   <p><i>A highly-secure, fully autonomous AI desktop companion engineered for extreme productivity.</i></p>
 
@@ -13,6 +7,7 @@
     <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows&color=2b2b2b" alt="Platform" />
     <img src="https://img.shields.io/badge/Security-Encrypted-red?style=for-the-badge&color=ff3366" alt="Security" />
   </p>
+  <img width="241" height="298" alt="1 2" src="https://github.com/user-attachments/assets/ab3d084e-6af5-45be-b874-2d292ab87591" />
 </div>
 
 <br>
