@@ -99,7 +99,7 @@ graph TD
 ## Deployment Instructions
 
 1. Navigate to the **[Releases](../../releases)** tab on this GitHub repository.
-2. Download the latest `JARVIS_vX.X.X-Optimized.zip` release bundle.
+2. Download the latest `JARVIS_v1.0.0-Optimized.zip` release bundle.
 3. Extract the entire folder to a dedicated directory on your PC (e.g., your Desktop).
 4. Inside the extracted folder, double-click on `Jarvis.exe` to initialize the boot sequence.
    
