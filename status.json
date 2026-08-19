@@ -3,8 +3,8 @@
     "allowed_users": ["*"],
     "banned_fingerprints": [],
     "banned_ips": [],
-    "version": "1.0.1",
+    "version": "1.1.1",
     "download_url": "https://raw.githubusercontent.com/Divyaraj94/jarvis-licensing/main/Jarvis.exe",
-    "changelog": "System release v1.0.1 with auto-updater and AppData protection.",
+    "changelog": "System release v1.1.1 with auto-updater and AppData protection.",
     "mandatory": false
 }
