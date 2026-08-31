@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>[ Primary Interface & Authentication Protocol ]</h3>
-  <img width="1919" height="1079" alt="Screenshot 2026-08-15 011853" src="https://github.com/user-attachments/assets/885671aa-4cf1-4cf1-902d-02cc223b5e3f" />
+  <img width="1917" height="1078" alt="Screenshot 2026-08-31 161826" src="https://github.com/user-attachments/assets/6dea3a46-3d98-4437-b78b-5117b4b53cc3" />
 
   <br><br>
   <img width="1919" height="1079" alt="Screenshot 2026-08-15 011817" src="https://github.com/user-attachments/assets/4946cccc-441c-4d12-8104-77cb4b4449b0" />
