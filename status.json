@@ -3,8 +3,8 @@
     "allowed_users": ["*"],
     "banned_fingerprints": [],
     "banned_ips": [],
-    "version": "1.2.1",
+    "version": "1.2.2",
     "download_url": "https://raw.githubusercontent.com/Divyaraj94/jarvis-licensing/main/Jarvis.exe",
-    "changelog": "v1.2.1: Silent background OTA updater (zero terminal popups), instant username/title live configuration sync, bootup theme initialization, dynamic Task Log recoloring, and UI stability improvements.",
+    "changelog": "v1.2.2: Silent background OTA updater (zero terminal popups), instant username/title live configuration sync, bootup theme initialization, dynamic Task Log recoloring, and UI stability improvements.",
     "mandatory": false
 }
