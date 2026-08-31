@@ -122,17 +122,17 @@ JARVIS includes a dynamic visual engine, allowing seamless transitions across si
       <br><b>ARC REACTOR</b>
     </td>
     <td align="center" style="border: none;">
-      <img width="250" alt="Screenshot 2026-08-15 011928" src="https://github.com/user-attachments/assets/a75c0589-d341-4bbe-b476-c6ab84de2228" />
+      <img width="250" alt="Screenshot 2026-08-31 161312" src="https://github.com/user-attachments/assets/cfd82a21-49ea-4ae5-be09-f152a20b05bf" />
       <br><b>MATRIX</b>
     </td>
     <td align="center" style="border: none;">
-      <img width="250"  alt="Screenshot 2026-08-15 012017" src="https://github.com/user-attachments/assets/daf4d2aa-74db-4900-92a5-0c5cf0a75087" />
+      <img width="250" alt="Screenshot 2026-08-31 161419" src="https://github.com/user-attachments/assets/1fdf3ff6-6c31-458c-86e5-00b0dfebe644" />
       <br><b>DNA HELIX</b>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img width="250" alt="Screenshot 2026-08-15 012035" src="https://github.com/user-attachments/assets/63459dfb-d05b-4aa3-ae35-637bec6e90cf" />
+  <img width="250" alt="Screenshot 2026-08-31 161439" src="https://github.com/user-attachments/assets/3e0b9d1f-d0f8-4fca-96ca-f167bdfc410a" />
       <br><b>WAVE</b>
     </td>
     <td align="center" style="border: none;">
