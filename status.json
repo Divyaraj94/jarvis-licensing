@@ -3,9 +3,8 @@
     "allowed_users": ["*"],
     "banned_fingerprints": [],
     "banned_ips": [],
-    "version": "1.2.3",
+    "version": "1.2.4",
     "download_url": "https://raw.githubusercontent.com/Divyaraj94/jarvis-licensing/main/Jarvis.exe",
-    "changelog": "v1.2.3: Voice persistence across reboots, Professional executive default persona, automated code generation execution pipeline in live terminal, and cloud ID Pass multi-device protection.",
+    "changelog": "v1.2.4: Real-time telemetry app_version tracking, smooth animated modal transitions with frosted glass backdrop for Task Log and Birthday widgets, and UI geometry fixes.",
     "mandatory": false
-}
- 
+}
