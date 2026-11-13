@@ -3,8 +3,8 @@
     "allowed_users": ["*"],
     "banned_fingerprints": [],
     "banned_ips": [],
-    "version": "1.2.4",
+    "version": "2.0.0",
     "download_url": "https://raw.githubusercontent.com/Divyaraj94/jarvis-licensing/main/Jarvis.exe",
-    "changelog": "v1.2.4: Real-time telemetry app_version tracking, smooth animated modal transitions with frosted glass backdrop for Task Log and Birthday widgets, and UI geometry fixes.",
+    "changelog": "v2.0.0: Major overhaul - Stark Industries Neural Core v2.0, USB Portable Mode, native Windows Setup installer, audio playback stabilization, dynamic Island HUD, and full creator identity integration.",
     "mandatory": false
 }
